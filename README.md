@@ -1,4 +1,4 @@
-# DoctorApp
+# Doctor App
 
 ## Framework and Language
 
