@@ -1,4 +1,4 @@
-# Doctor App
+# Doctor Appointment Scheduling App
 
 ## Framework and Language
 
