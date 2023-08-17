@@ -97,4 +97,4 @@
 
 ## Project Summary
 
-    The  Doctor  is a comprehensive software solution designed to keep track of orders . The system provides a centralized platform that enables  user to create, read, edit, and delete appointment.
+    The  Doctor Appointment Scheduling App  is a comprehensive software solution designed to keep track of orders . The system provides a centralized platform that enables  user to create, read, edit, and delete appointment.
